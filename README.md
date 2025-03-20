@@ -1,1 +1,1 @@
-# Cs230
+# CS 230 - NoteSnap
